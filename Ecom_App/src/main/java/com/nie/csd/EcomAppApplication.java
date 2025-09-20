@@ -8,6 +8,8 @@ public class EcomAppApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(EcomAppApplication.class, args);
+		System.out.println("EcomAppApplication started successfully.");
+		System.out.println("Connected to MongoDB successfully.");
 	}
 
 }

@@ -1,1 +1,2 @@
-this is simple ecommerce application 
+# E_commerce
+Ecommerce project 
